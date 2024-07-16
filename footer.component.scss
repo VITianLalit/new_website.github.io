@@ -1,0 +1,89 @@
+// final css
+h1.heading1{
+    font-size: 25px;
+    font-weight: bold;
+}
+section.footer {
+    background-color: black;
+    color: white;
+    padding: 50px 0;
+    // margin-top: 80px;
+}
+ul.footer-nav li a {
+    color: white;
+    text-decoration: none;
+    margin: 0;
+}   
+p.fabout-ctn {
+    line-height: 31px;
+    padding-top: 12px;
+}
+ul.footer-nav li {
+    list-style: none;
+    margin-bottom: 17px;
+}
+ul.footer-nav {
+    padding-top: 14px;
+    padding-left: 0;
+}
+ul.footer-nav li a:hover{
+    color:#066D72;
+}   
+
+
+// jbcjkdsb
+.submit{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 11px 35px;
+    color: white;
+    border-radius: 6px;
+    background-color: #066D72;
+    font-weight: bold;
+}
+  .input-main input {
+    height: 26px;
+    width: 100%;
+    background: none;
+    border: none;
+    outline: none;
+    color: #a2a2a2;
+    font-size: 1rem;
+  }
+  
+  .input-main input::placeholder {
+    color: #a2a2a2;
+  }
+  .input-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    margin-right: 10px;
+    width: 41%;
+}
+  
+  .form-box {
+    display: flex;
+    align-items: center;
+    margin-top: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
